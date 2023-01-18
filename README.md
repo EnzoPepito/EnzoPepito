@@ -5,9 +5,12 @@
 ### The name's Enzo. 👋🏼
 
 💬 Looking to help in data preprocessing, analysis, visualization. 
+
 🌱 Python, SQL, Power BI, Tableau
 
+
 📬 pepito.enzo@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/enzopepito/) 
+
 🚇 Also check out this fun vlog I help out in: [TTC Showcase on Instagram](https://www.instagram.com/ttcshowcase/)!
 
 <!--
