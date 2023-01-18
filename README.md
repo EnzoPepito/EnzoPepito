@@ -1,6 +1,4 @@
-<p align = "center">
-<img alt="GIF" src="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre" description="test"/>
-</p>
+![](https://i.imgur.com/YBqg9JG.gif)
 
 ### The name's Enzo. 👋🏼
 🏗 Slowly building up this space so stay tuned for more!
