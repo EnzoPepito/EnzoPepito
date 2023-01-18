@@ -1,6 +1,5 @@
-@@ -1,17 +1,20 @@
 <p align = "center">
-<img alt="GIF" src="https://i.imgur.com/YBqg9JG.gifv" description="test"/>
+<img alt="GIF" src="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre" description="test"/>
 </p>
 
 ### The name's Enzo. 👋🏼
