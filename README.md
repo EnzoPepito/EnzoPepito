@@ -1,4 +1,20 @@
-### Hi there 👋
+@@ -1,17 +1,20 @@
+<p align = "center">
+<img alt="GIF" src="https://i.imgur.com/YBqg9JG.gifv" description="test"/>
+</p>
+
+### The name's Enzo. 👋🏼
+🏗 Slowly building up this space so stay tuned for more!
+
+🏫 Humber College, Business Insights & Analytics 2023
+
+📬 pepito.enzo@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/enzopepito/)
+
+🌱 Python, SQL, Power BI, Tableau
+
+💬 Looking to help in data preprocessing, analysis, visualization.
+
+🚇 Also check out this fun vlog I help out in: [TTC Showcase on Instagram](https://www.instagram.com/ttcshowcase/)!
 
 <!--
 **EnzoPepito/EnzoPepito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
