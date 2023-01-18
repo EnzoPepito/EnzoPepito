@@ -1,5 +1,7 @@
-![](https://i.imgur.com/YBqg9JG.gif)
-
+<p align="center">
+  <img src="hello.gif" alt="animated" />
+</p>
+  
 ### The name's Enzo. 👋🏼
 🏗 Slowly building up this space so stay tuned for more!
 
