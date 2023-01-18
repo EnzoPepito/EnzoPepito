@@ -3,7 +3,9 @@
 </p>
   
 ### The name's Enzo. 👋🏼
-🏫 Humber College, Business Insights & Analytics 2023
+🌱 Python, SQL, Power BI, Tableau
+
+💬 Looking to help in data preprocessing, analysis, visualization.
 
 📬 pepito.enzo@gmail.com or 🔗 [LinkedIn](https://www.linkedin.com/in/enzopepito/)
 
